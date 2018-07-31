@@ -8,7 +8,7 @@ new_hash = {}
     else
     new_hash[key] = {}
     new_hash[key] = value
-        new_hash[key][:style] = [k]
+    new_hash[key][:style] = [k]
       end
 end
 end
